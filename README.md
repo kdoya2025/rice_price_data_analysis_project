@@ -7,22 +7,22 @@ When the staging table was done, I started cleaning the dataset by removing dupl
 At the end of the data cleaning, I have applied window such as count, sum, avg, min, max….to make the analysis inside the SQL Database. 
 I imported the cleaned data into csv, then I moved it on  excel to make the analysis and built dashboard to present the key insight
 
-Key Insight
-Total demand (Tons):  468 613.49
-Total Supply (Tons):  428 061.81
-Total Shipment: 898
-Price per kg average by region
-East	$55.21
-North	$56.07
-South	$58.38
-West	$54.40
-Unknow $59.43
-Total demand by rice type
-Basmati	: 158757.69
-Brown: 85002.64
-Jasmine	: 78430.11
-White: 64579.49
-Unknow: 87799.89	
+*Key Insight*
+**Total demand (Tons):  468 613.49**
+**Total Supply (Tons):  428 061.81**
+**Total Shipment: 898**
+*Price per kg average by region*
+**East	$55.21**
+**North	$56.07**
+**South	$58.38**
+**West	$54.40**
+**Unknow $59.43**
+*Total demand by rice type*
+**Basmati	: 158757.69**
+**Brown: 85002.64**
+**Jasmine	: 78430.11**
+**White: 64579.49**
+**Unknow: 87799.89**	
 
 
 
